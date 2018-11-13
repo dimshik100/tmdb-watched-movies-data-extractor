@@ -1,0 +1,18 @@
+{
+  "name": "did-i-watched-this-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-movies": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.22.2",
+    "request": "^2.81.0"
+  }
+}
