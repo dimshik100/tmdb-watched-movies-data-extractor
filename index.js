@@ -25,7 +25,6 @@ function getListPage(listId, pageNumber, promiseResolveCB) {
       authorization: 'Bearer <<access_token>>',
       'content-type': 'application/json;charset=utf-8'
     },
-    body: {},
     json: true
   };
 
